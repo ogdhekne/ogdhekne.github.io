@@ -8,4 +8,6 @@ I am hardcore GNU/Linux fan, I do sometimes use BSD distros.
 I like building and 3D printing stuff.
 I like shell scriping.
 
-Do check out [my Github repos] (https://github.com/ogdhekne) list.
+Do check out [my Github repos] [my-github-repos] list.
+
+[my-github-repos]: https://github.com/ogdhekne
