@@ -22,7 +22,7 @@ title: Omkar Dhekne's blog
 email: ogdhekne@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am hardcore GNU/Linux fan, I do sometimes use BSD distros.
-  I like building and 3D printing stuff.
+  I like building 3D printer and 3D printing stuff.
   I like shell scriping.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
