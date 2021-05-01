@@ -16,6 +16,9 @@ Do check out:
  - [Twitter]
  - [Email]
 
+This theme forked from [Nice Blog], so credit for theme layout goes to [Nice Blog].
+
+[Nice Blog]: http://jekyllthemes.org/themes/nice-blog/
 
 [My Github repos]: https://github.com/ogdhekne
 
