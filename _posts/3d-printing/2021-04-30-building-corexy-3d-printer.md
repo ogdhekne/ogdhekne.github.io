@@ -1,8 +1,12 @@
 ---
 layout: post
 title:  "Building COREXY 3D Printer"
+subtitle: "World of 3D Printer building"
 date:   2021-04-30 14:15:00 +0530
-categories: jekyll 3d-printing
+author: Omkar
+category: 3D Printing
+tags: corexy markdown github
+finished: true
 ---
 
 As an newbie creator I wanted to have a 3D printer using which I can print 3D objects and work on my creative work.
