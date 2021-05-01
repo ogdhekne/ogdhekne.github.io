@@ -7,7 +7,7 @@ description: >
     I like building 3D printer and 3D printing stuff.
     I like shell scriping.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://ogdhekne.github.io" # the base hostname & protocol for your site
 twitter_username: ogdhekne # your Twitter username
 github_username: ogdhekne # your Github username
 # disqus_username: ogdhekne # your disqus username
