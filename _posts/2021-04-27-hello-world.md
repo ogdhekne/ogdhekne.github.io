@@ -4,13 +4,14 @@ title:  "Hello World"
 subtitle: "My Jekyll blog."
 date:   2021-04-27 02:12:45 +0530
 author: Omkar Dhekne
-category: Jekyll
-tags: jekyll github blog
+category: Hello
+tags: hello github blog
 finished: true
 ---
 
-- This is my first time to write jekyll blog.
-- I have written blogs before using:
+This is my first time to write jekyll blog.
+
+I have written blogs before using:
 1. write.io - hosting on oracle cloud instance, which obviously didn't workout. It did gave important feature ie. multi-blog hosting - that was awesome.
 2. blogspot.com - did not like its appearence and management (web based editing)
 3. ghost - on oracle cloud instance, it was good for brief period of time but lack many required features.
