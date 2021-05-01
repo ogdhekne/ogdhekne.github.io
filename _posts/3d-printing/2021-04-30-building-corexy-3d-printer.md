@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building COREXY 3D Printer"
-date:   2021-05-01 14:15:00 +0530
+date:   2021-04-30 14:15:00 +0530
 categories: jekyll 3d-printing
 ---
 
