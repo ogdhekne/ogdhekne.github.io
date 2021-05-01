@@ -10,6 +10,6 @@ permalink: /about/
 
 - I like shell scriping.
 
-Do check out [my Github repos] [my-github-repos] list.
+Do check out [my Github repos] list.
 
-[my-github-repos]: https://github.com/ogdhekne
+[my Github repos]: https://github.com/ogdhekne
