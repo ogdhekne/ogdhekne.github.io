@@ -3,9 +3,9 @@ layout: post
 title:  "Building COREXY 3D Printer"
 subtitle: "World of 3D Printer building"
 date:   2021-04-30 14:15:00 +0530
-author: Omkar
+author: Omkar Dhekne
 category: 3D Printing
-tags: corexy markdown github
+tags: corexy reprap github
 finished: true
 ---
 
