@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+subtitle: 
 permalink: /about/
 ---
 
@@ -10,6 +11,19 @@ permalink: /about/
 
 - I like shell scriping.
 
-Do check out [my Github repos] list.
+Do check out:
+ - [My Github repos] list.
+ - [Twitter]
+ - [Email]
 
-[my Github repos]: https://github.com/ogdhekne
+
+[My Github repos]: https://github.com/ogdhekne
+
+[Twitter]: https://twitter.com/ogdhekne
+
+[Email]: mailto:ogdhekne@gmail.com
+
+
+{% if site.skillstree %}
+{% include skillstree.html %}
+{% endif %}

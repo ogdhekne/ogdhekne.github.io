@@ -1,8 +1,12 @@
 ---
 layout: post
 title:  "Hello World"
+subtitle: "My Jekyll blog."
 date:   2021-04-27 02:12:45 +0530
-categories: jekyll hello
+author: Omkar Dhekne
+category: Jekyll
+tags: jekyll github blog
+finished: true
 ---
 
 - This is my first time to write jekyll blog.

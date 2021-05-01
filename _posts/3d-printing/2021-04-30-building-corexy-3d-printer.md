@@ -16,7 +16,7 @@ And answer to this wish list is **NO**, I cannot get all three things at the sam
 Either I can get cheaper model with low build size dimensions  or expensive model with high build size.
 Where modularity and customization support is common factor in all build sizes.
 
-![Hypercube](https://cdn.thingiverse.com/renders/3c/3a/c1/b0/50/e830a92070c436215ff6de43c477cdb4_preview_featured.jpg)
+<img src="https://cdn.thingiverse.com/renders/3c/3a/c1/b0/50/e830a92070c436215ff6de43c477cdb4_preview_featured.jpg" width="400" height="400">
 
 After many months of information search and thought I came to conclusion that I could build 3D printer, off course not without help of any kind.
 So I started collecting information for my [ideal 3D printer](https://reprap.org/wiki/HyperCube).
