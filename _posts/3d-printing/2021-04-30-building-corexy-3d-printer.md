@@ -27,6 +27,4 @@ So I started collecting information for my [ideal 3D printer](https://reprap.org
 
 Information about parts required, their quantity, price and place to buy in my city: (पुणे) Pune, Maharashtra, India
 
-Downloadable PDF:
- - [COREXY Spreadsheet](https://github.com/ogdhekne/ogdhekne.github.io/raw/main/files/docs/COREXY_spreadsheet.pdf){:target="_blank"}
- - [Another document with part images](https://github.com/ogdhekne/ogdhekne.github.io/raw/main/files/docs/corexy-3d-printer.pdf){:target="_blank"}
+ - [COREXY 3D PRINTER PARTS WITH COST](https://docs.google.com/document/d/1SRQRnK_1QVLtNM10grdzUjw3j2kGoWngv-ntzeq9M18/edit?usp=sharing){:target="_blank"}

@@ -14,5 +14,5 @@ I had to install various apps. again. \
 I also had to install virtualbox and acpi-tools and I have configured UEFI with secureboot in my BIOS config. \
 So, this is where secureboot utllity comes in.
 
-Asciinema recording:\
-[![asciicast](https://asciinema.org/a/mzs6N8E9cb0G82eKTuCvcH7w3.svg)](https://asciinema.org/a/mzs6N8E9cb0G82eKTuCvcH7w3){:target="_blank"}
+Asciinema recording:
+<script src="https://asciinema.org/a/mzs6N8E9cb0G82eKTuCvcH7w3.js" id="asciicast-mzs6N8E9cb0G82eKTuCvcH7w3" async="true"></script>
