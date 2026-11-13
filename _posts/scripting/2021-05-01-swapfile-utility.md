@@ -9,8 +9,8 @@ tags: shell linux github
 finished: true
 ---
 
-I have created this utility to create, delete swapfile.\
-This saves lot of time to search and know commands to create or delete swapfile.\
+I have created this utility to create and delete swapfiles.\
+This saves a lot of time searching for the commands to create or delete a swapfile.\
 Script link: [Swapfilec](https://raw.githubusercontent.com/ogdhekne/general-purpose-scripts/master/swapfilec){:target="_blank"}
 
 Asciinema recording:
